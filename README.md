@@ -16,8 +16,8 @@
     -> SkLearn
     -> XGB Regressor
 
-![Price Heatmap](https://github.com/user-attachments/assets/bd468945-107c-484b-a6ea-19bed14c57f7)
-![Actual Price vs Predicted Price](https://github.com/user-attachments/assets/766697de-b0db-4733-b17d-44f035186b94)
+![Price Heatmap](https://github.com/user-attachments/assets/0af6e684-dfff-4fd1-9043-10f1cf82f5f3)
+![Actual Price vs Predicted Price](https://github.com/user-attachments/assets/d2baa566-f93a-4d9f-8f1d-fbe12c614b5d)
 
     
 # GOOGLE COLLAB LINK
